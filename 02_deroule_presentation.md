@@ -2,7 +2,7 @@
 
 | Min | Slide | Contenu | Orateur |
 |---|---|---|---|
-| 0:00–1:00 | 1–2 | Intro + problème HelvetiCart (la prod qui souffre) | A |
+| 0:00–1:00 | 1–2 | Intro + problème de la PME suisse (la prod qui souffre) | A |
 | 1:00–3:30 | 3 | Architecture : colonnaire + MPP, Serverless vs provisionné | A |
 | 3:30–5:00 | 4 | Regard critique : promesses tenues vs marketing | B |
 | 5:00–7:00 | 5–6 | Coûts (scénario 230 $/mois) + lock-in | B |

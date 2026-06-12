@@ -1,13 +1,13 @@
 # Scénario & synthèse de recherche — Workshop Redshift
 
-## Cas d'usage choisi : "HelvetiCart"
+## Cas d'usage choisi : PME suisse
 
-PME e-commerce suisse fictive, ~80 employés, basée à Lausanne.
+PME e-commerce suisse fictive, ~100 employés, basée à Lausanne.
 
 **Problème.** Toutes les données (commandes, clients, clickstream web) vivent dans le PostgreSQL de production. Les dashboards BI et les analyses ad-hoc des data analysts ralentissent la prod ; certaines requêtes d'agrégation prennent plusieurs minutes.
 
 **Données.**
-- ~45 M de lignes de commandes (5 ans d'historique), croissance ~30 GB/mois
+- ~5 M de commandes par an, ~45 M de lignes au total (5 ans d'historique), croissance ~30 GB/mois
 - Clickstream web : ~200 M d'événements
 - Volume total analytique : **~600 GB**
 

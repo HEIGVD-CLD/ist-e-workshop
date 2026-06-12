@@ -1,5 +1,5 @@
 -- ============================================================
--- Démo HelvetiCart — Redshift Serverless (Query Editor v2)
+-- Démo PME suisse — Redshift Serverless (Query Editor v2)
 -- Ordre d'exécution : 1) DDL  2) COPY  3) requêtes force  4) faiblesse
 -- ============================================================
 

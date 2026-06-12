@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Génère les données de démo HelvetiCart (commandes e-commerce).
+"""Génère les données de démo de la PME suisse (commandes e-commerce).
 
 Usage:  python generate_data.py [n_rows]   (défaut 5_000_000)
 Sortie: orders.csv.gz (~150 MB pour 5M lignes) à uploader sur S3.
